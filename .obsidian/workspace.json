@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,11 +157,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36683d6cefaa515d",
+  "active": "b7507559a539dd6d",
   "lastOpenFiles": [
+    "sight words.md",
     "HPCC Reading Notes.md",
     "README.md",
-    "paper pdf/b4-sigcomm13.pdf",
-    "paper pdf/HPCC.pdf"
+    "Paper pdf/b4-sigcomm13.pdf",
+    "Paper pdf/HPCC.pdf"
   ]
 }
