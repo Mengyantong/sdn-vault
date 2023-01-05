@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HPCC Reading Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HPCC Reading Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "HPCC Reading Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,21 +137,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HPCC Reading Notes.md"
               }
             }
+          },
+          {
+            "id": "f423786d8982f4c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "36683d6cefaa515d",
   "lastOpenFiles": [
     "HPCC Reading Notes.md",
     "README.md",
+    "paper pdf/b4-sigcomm13.pdf",
     "paper pdf/HPCC.pdf"
   ]
 }
