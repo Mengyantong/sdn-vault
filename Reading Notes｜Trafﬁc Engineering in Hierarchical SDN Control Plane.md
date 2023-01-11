@@ -1,2 +1,3 @@
 ## Motivation
-由于网络演变成一个多domain和layer的架构，需要分层控制
+
+随着网络快速发展，网络架构正在演变chen
