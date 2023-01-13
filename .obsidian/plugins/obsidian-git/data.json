@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}} :p",
+  "commitMessage": "vault backup: {{date}} ",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
@@ -13,7 +13,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "customMessageOnAutoBackup": true,
+  "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
