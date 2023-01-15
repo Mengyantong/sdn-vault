@@ -18,4 +18,4 @@
 ## Design
 ![[Pasted image 20230112011741.png]]
 - Aggregating network topology：Domain-layer NIB represents the network view of the entire network, switch-layer NIB to describe the local network view
-- 
+- Aggregating QoS information：
