@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97a91032c4738715",
@@ -156,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc196d23c3ae2e7",
+  "active": "46c800aa5b821689",
   "lastOpenFiles": [
+    "2023-02-20.md",
+    "Untitled.canvas",
+    "Reading Notes｜SWAN.md",
     "Reading Notes｜Trafﬁc Engineering in Hierarchical SDN Control Plane.md",
     "Reading Notes｜HPCC.md",
     "2023-01-11.md",
