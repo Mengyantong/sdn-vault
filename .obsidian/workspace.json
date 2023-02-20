@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb158ba7cff0a8e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb158ba7cff0a8e8",
+  "active": "0dc196d23c3ae2e7",
   "lastOpenFiles": [
     "Reading Notes｜Trafﬁc Engineering in Hierarchical SDN Control Plane.md",
     "Reading Notes｜HPCC.md",
